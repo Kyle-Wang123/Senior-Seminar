@@ -5,11 +5,13 @@ public class Schedule
 {
 	private static ArrayList<Session> sessionList = new ArrayList<Session>();
 	private static ArrayList<Person> reassignList = new ArrayList<Person>();
+	private static ArrayList<Person> attendeesList = new ArrayList<Person>();
 	private static Session[][] schedule = new Session[5][5];
-	public Schedule(ArrayList<Session> sessionList, ArrayList<Person> reassignList)
+	public Schedule(ArrayList<Session> sessionList, ArrayList<Person> reassignList, ArrayList<Person> attendeesList)
 	{
 		this.sessionList = sessionList;
 		this.reassignList = reassignList;
+		this.attendeesList = attendeesList;
 	}//Schedule
 	
 	public void mostPop()
@@ -25,7 +27,7 @@ public class Schedule
 				{
 					if (schedule[r][c].getProctor().equals(schedule[r][n].getProctor()))
 					{
-						//Schedule.swap(r, c);
+						Schedule.swap(r, c);
 						break;
 					}
 				}//for
@@ -34,7 +36,7 @@ public class Schedule
 	}//mostPop	
 				
 				
-	/*public static void swap(int room, int time)
+	public static void swap(int room, int time)
 	{
 		Session swap = schedule[time][room];
 		for (int l = 0; l < 5; l++)
@@ -65,7 +67,7 @@ public class Schedule
 				schedule[l][hold] = swap;
 			}//if
 		}//for
-	}//swap */
+	}//swap 
 	
 	public String toString()
 	{
@@ -80,4 +82,8 @@ public class Schedule
 		}//for
 		return finalStr;
 	}//toString
+	
+	public void schedulePer(Person per)
+	{
+		
 }//Schedule

@@ -15,27 +15,38 @@ public class SeniorSeminarMain
 	{
 		ArrayList<Session> sessionList = new ArrayList<Session>();
 		ArrayList<Person> reassignList = new ArrayList<Person>();
+		ArrayList<Person> attendeesList = new ArrayList<Person>();
 		Sorter sorter = new Sorter();
 		try 
 		{
 			File myObj = new File("seminar.csv");
+			File sessions = new File("sessions.csv");
+			Scanner scan = new Scanner(sessions);
 			Scanner myReader = new Scanner(myObj);
+			while (scan.hasNextLine())
+			{
+				String[] data = scan.nextLine().split(",");
+				sessionList.add(new Session(data[2], Integer.parseInt(data[1]), data[0], false));
+			}//while
 			while (myReader.hasNextLine()) 
 			{	
 				String[] data = myReader.nextLine().split(",");//delimiting the data by commas and storing them into an array
-				if (data.length > 7)
-				{sessionList.add(new Session(data[9], Integer.parseInt(data[8]), data[7], false));}
 				String nameHold = data[1];//the name
 				String emailHold = data[0];//the first part of email
 				Person perHold = new Person(nameHold, emailHold, Integer.parseInt(data[2]),Integer.parseInt(data[3]),
-													   Integer.parseInt(data[4]),Integer.parseInt(data[5]),Integer.parseInt(data[6]));//creating a person object										   
-				if (Integer.parseInt(data[2])!=0)
-				{
-					sessionList.get(perHold.getChoice(0)-1).upPop();
-					sessionList.get(perHold.getChoice(0)-1).addWait(perHold);
-				}//if
-				else
+													   Integer.parseInt(data[4]),Integer.parseInt(data[5]),Integer.parseInt(data[6]));//creating a person object		
+													   							   
+				if (Integer.parseInt(data[2])==0)
 				{reassignList.add(perHold);}
+				else
+				{
+					sessionList.get(perHold.getChoice(0)-1).upPop(5);
+					sessionList.get(perHold.getChoice(1)-1).upPop(4);
+					sessionList.get(perHold.getChoice(2)-1).upPop(3);
+					sessionList.get(perHold.getChoice(3)-1).upPop(2);
+					sessionList.get(perHold.getChoice(4)-1).upPop(1);	
+					attendeesList.add(perHold);
+				}//else
 				
 			}//while
 			myReader.close();
@@ -48,7 +59,16 @@ public class SeniorSeminarMain
 		
 		sessionList = sorter.selection(sessionList);
 		System.out.println(sessionList);
-		Schedule mostPop = new Schedule(sessionList, reassignList);
+		for (int i = 0; i < 7; i++)
+		{
+			sessionList.add(sessionList.get(i));
+			sessionList.get(i+18).changeSecond(true);
+		}//for
+		System.out.println(sessionList);
+		Schedule mostPop = new Schedule(sessionList, reassignList, attendeesList);
 		mostPop.mostPop();
+		System.out.println(mostPop);
+		
+	
 	}//main
 }//SeniorSeminarMain

@@ -50,8 +50,11 @@ public class Session
 	public void addWait(Person per)
 	{waitlist.add(per);}
 	
-	public void upPop()
-	{popular++;}
+	public void upPop(int num)
+	{popular+= num;}
+	
+	public void changeSecond(boolean second)
+	{hasSecond = second;}
 	
 	public String toString()
 	{
