@@ -5,7 +5,7 @@
 public class Person
 {
 	private String name;
-	private int f1, f2,f3,f4,f5;
+	private Session[] schedule = new Session[5];
 	private String email;
 	private int[] choices = new int[5];
 	public Person(String name,String emailStart, int c1, int c2, int c3, int c4, int c5)
@@ -17,13 +17,26 @@ public class Person
 		choices[2] = c3;
 		choices[3] = c4;
 		choices[4] = c5;
+		for (int i = 0; i < 5; i++)
+			schedule[i] = new Session(" ", 0," ",false);
 	}//Person
 	
 	public int getChoice(int index)
 	{return choices[index];}
 	
+	public Session getFinal(int index)
+	{return schedule[index];}
+
+	public void setFinal(int index, Session session)
+	{schedule[index] = session;}
+	
 	public String toString()
 	{
-		return name+" "+email;
+		String str = name+" ";
+		for (int i = 0; i < 5; i++)
+		{
+			str+=choices[i]+" ";
+		}
+		return str;
 	}
 }//Person

@@ -19,6 +19,13 @@ public class Session
 		hasSecond = second;
 	}//Session
 	
+	public boolean canAdd()
+	{ 
+		if (finalList.size() + 1 <= SIZE)
+			return true;
+		return false;
+	}//canAdd
+	
 	public int getPop()
 	{return popular;}
 	
@@ -34,18 +41,20 @@ public class Session
 	public ArrayList<Person> getWaitlist()
 	{return waitlist;}
 	
+	public int getID()
+	{return sessionID;}
+	
+	public int getSize()
+	{return finalList.size();}
+	
+	public ArrayList<Person> getFinalList()
+	{return finalList;}
+	
 	public void second(boolean second)
 	{hasSecond = second;}
 	
-	public boolean addPerson(Person per)
-	{
-		if (finalList.size() + 1 <= SIZE)
-		{
-			finalList.add(per);
-			return true;
-		}//if
-		return false;
-	}//addPerson
+	public void addPerson(Person per)
+	{finalList.add(per);}//addPerson
 	
 	public void addWait(Person per)
 	{waitlist.add(per);}
@@ -58,6 +67,6 @@ public class Session
 	
 	public String toString()
 	{
-		return sessionID+" ";
+		return sessionID+" "+proctor+" ";//+finalList;
 	}//toString
 }//Session

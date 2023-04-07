@@ -35,7 +35,6 @@ public class SeniorSeminarMain
 				String emailHold = data[0];//the first part of email
 				Person perHold = new Person(nameHold, emailHold, Integer.parseInt(data[2]),Integer.parseInt(data[3]),
 													   Integer.parseInt(data[4]),Integer.parseInt(data[5]),Integer.parseInt(data[6]));//creating a person object		
-													   							   
 				if (Integer.parseInt(data[2])==0)
 				{reassignList.add(perHold);}
 				else
@@ -58,17 +57,25 @@ public class SeniorSeminarMain
 		}//catch
 		
 		sessionList = sorter.selection(sessionList);
-		System.out.println(sessionList);
+		//System.out.println(sessionList);
 		for (int i = 0; i < 7; i++)
 		{
 			sessionList.add(sessionList.get(i));
 			sessionList.get(i+18).changeSecond(true);
 		}//for
-		System.out.println(sessionList);
-		Schedule mostPop = new Schedule(sessionList, reassignList, attendeesList);
+		//System.out.println(sessionList);
+		Schedule mostPop = new Schedule(sessionList, attendeesList);
 		mostPop.mostPop();
-		System.out.println(mostPop);
-		
-	
+		System.out.println("");
+		for (int i = 0; i < 1; i++)
+		{
+			mostPop.schedulePer(attendeesList.get(i));
+			for (int j = 0; j < 5; j++)
+			{
+				System.out.print(attendeesList.get(i).getFinal(j));
+			}
+			System.out.println("");
+			System.out.println(attendeesList.get(i));
+		}//for 
 	}//main
 }//SeniorSeminarMain
