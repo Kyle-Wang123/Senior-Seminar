@@ -1,3 +1,0 @@
-I am trying to make a sorted list of sessions and based on that, create one schedule(ex.) by most/least popular) and put all the people that 
-need to be moved in a seperate list. I would also like to create other schedules and determine the amount of people that need to be moved
-and compare it to the other schedules to find the best schedule of those set different schedules.
