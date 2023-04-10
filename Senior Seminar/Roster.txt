@@ -1,0 +1,592 @@
+Name: Alexandra Marie Pohl
+Seminars:
+Block 1: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 2: The Road Less Traveled: Finding the Right Path for You 
+Block 3: Community Organizing and College: Participating in Your College's Democracy 
+Block 4: College Decisions: Choosing a Historically Black College over a Predominately White Institution 
+Block 5: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+
+Name: Annabel August Forman
+Seminars:
+Block 1: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 2: The Road Less Traveled: Finding the Right Path for You 
+Block 3: What Is Research When It's Not a Resume Builder? 
+Block 4: To Read or Not To Read? Interning in Publishing 
+Block 5: Thriving in a Highly Competitive College Environment 
+
+Name: Helen Kovach
+Seminars:
+Block 1: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 2: The Road Less Traveled: Finding the Right Path for You 
+Block 3: What Is Research When It's Not a Resume Builder? 
+Block 4: On-Campus Recruiting and the Coveted Junior Year Internship in Finance 
+Block 5: Thriving in a Highly Competitive College Environment 
+
+Name: Herschel Morris Albert
+Seminars:
+Block 1: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 2: Business Clubs: Campus Involvement and Professional Development 
+Block 3: So You Want to Play with Swords: Performance Martial Arts and Club Leadership 
+Block 4: On-Campus Recruiting and the Coveted Junior Year Internship in Finance 
+Block 5: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+
+Name: Jack Michael Kestner Sullivan
+Seminars:
+Block 1: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 2: Co-Ops and Engineering Internships: Gaining Professional Experience 
+Block 3: The Ins and Outs of Engineering Internships 
+Block 4: The Road Less Traveled: Finding the Right Path for You 
+Block 5: Thriving in a Highly Competitive College Environment 
+
+Name: Jacob Renner
+Seminars:
+Block 1: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 2: Business Clubs: Campus Involvement and Professional Development 
+Block 3: What Is Research When It's Not a Resume Builder? 
+Block 4: The Road Less Traveled: Finding the Right Path for You 
+Block 5: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+
+Name: Katelynn Renee Setters
+Seminars:
+Block 1: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 2: Business Clubs: Campus Involvement and Professional Development 
+Block 3: Making an Impact: Being a Leader in Student Government 
+Block 4: To Read or Not To Read? Interning in Publishing 
+Block 5: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+
+Name: Lily Taylor Farrell
+Seminars:
+Block 1: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 2: Business Clubs: Campus Involvement and Professional Development 
+Block 3: Making an Impact: Being a Leader in Student Government 
+Block 4: College Decisions: Choosing a Historically Black College over a Predominately White Institution 
+Block 5: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+
+Name: Mary C. Harten
+Seminars:
+Block 1: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 2: The Road Less Traveled: Finding the Right Path for You 
+Block 3: What Is Research When It's Not a Resume Builder? 
+Block 4: College Decisions: Choosing a Historically Black College over a Predominately White Institution 
+Block 5: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+
+Name: Stephen Holden Fatuzzo
+Seminars:
+Block 1: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 2: Emergency Medical Technician: Working in the Back of an Ambulance 
+Block 3: Community Organizing and College: Participating in Your College's Democracy 
+Block 4: The Road Less Traveled: Finding the Right Path for You 
+Block 5: Thriving in a Highly Competitive College Environment 
+
+Name: Yuxi Yang
+Seminars:
+Block 1: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 2: The Road Less Traveled: Finding the Right Path for You 
+Block 3: So You Want to Play with Swords: Performance Martial Arts and Club Leadership 
+Block 4: To Read or Not To Read? Interning in Publishing 
+Block 5: Thriving in a Highly Competitive College Environment 
+
+Name: Andrew Pendleton (Andy) Osborn
+Seminars:
+Block 1: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+Block 2: Emergency Medical Technician: Working in the Back of an Ambulance 
+Block 3: The Ins and Outs of Engineering Internships 
+Block 4: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 5: Co-Ops and Engineering Internships: Gaining Professional Experience 
+
+Name: Anthony Jacob (Tony) Buechly
+Seminars:
+Block 1: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+Block 2: Business Clubs: Campus Involvement and Professional Development 
+Block 3: Community Organizing and College: Participating in Your College's Democracy 
+Block 4: The Road Less Traveled: Finding the Right Path for You 
+Block 5: Thriving in a Highly Competitive College Environment 
+
+Name: Emily Marie Ram
+Seminars:
+Block 1: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+Block 2: The Road Less Traveled: Finding the Right Path for You 
+Block 3: What Is Research When It's Not a Resume Builder? 
+Block 4: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 5: Conquering the Concrete Jungle 
+
+Name: Francis Burse
+Seminars:
+Block 1: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+Block 2: Business Clubs: Campus Involvement and Professional Development 
+Block 3: So You Want to Play with Swords: Performance Martial Arts and Club Leadership 
+Block 4: On-Campus Recruiting and the Coveted Junior Year Internship in Finance 
+Block 5: Emergency Medical Technician: Working in the Back of an Ambulance 
+
+Name: Hunter Levi Taylor
+Seminars:
+Block 1: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+Block 2: Business Clubs: Campus Involvement and Professional Development 
+Block 3: The Ins and Outs of Engineering Internships 
+Block 4: The Road Less Traveled: Finding the Right Path for You 
+Block 5: Conquering the Concrete Jungle 
+
+Name: Manav Dev Midha
+Seminars:
+Block 1: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+Block 2: Community Service and Volunteering: Making an Impact as a College Student 
+Block 3: Making an Impact: Being a Leader in Student Government 
+Block 4: On-Campus Recruiting and the Coveted Junior Year Internship in Finance 
+Block 5: Thriving in a Highly Competitive College Environment 
+
+Name: Nicholas William (Nick) Cordea
+Seminars:
+Block 1: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+Block 2: The Road Less Traveled: Finding the Right Path for You 
+Block 3: Community Organizing and College: Participating in Your College's Democracy 
+Block 4: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 5: Thriving in a Highly Competitive College Environment 
+
+Name: Dylan Niles Thompson
+Seminars:
+Block 1: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+Block 2: Business Clubs: Campus Involvement and Professional Development 
+Block 3: So You Want to Play with Swords: Performance Martial Arts and Club Leadership 
+Block 4: College Decisions: Choosing a Historically Black College over a Predominately White Institution 
+Block 5: Conquering the Concrete Jungle 
+
+Name: Nicholas Minh (Nick) Nguyen
+Seminars:
+Block 1: Greek Life: From Animal House to Developing Tomorrow's Leaders 
+Block 2: Business Clubs: Campus Involvement and Professional Development 
+Block 3: The Ins and Outs of Engineering Internships 
+Block 4: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 5: Conquering the Concrete Jungle 
+
+Name: Enyi Li
+Seminars:
+Block 1: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 2: Business Clubs: Campus Involvement and Professional Development 
+Block 3: Making an Impact: Being a Leader in Student Government 
+Block 4: To Read or Not To Read? Interning in Publishing 
+Block 5: Thriving in a Highly Competitive College Environment 
+
+Name: Ruben Chandrakumar
+Seminars:
+Block 1: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+Block 2: Business Clubs: Campus Involvement and Professional Development 
+Block 3: Community Organizing and College: Participating in Your College's Democracy 
+Block 4: The Road Less Traveled: Finding the Right Path for You 
+Block 5: Co-Ops and Engineering Internships: Gaining Professional Experience 
+
+Name: Alec Daniel Hamall
+Seminars:
+Block 1: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 2: Community Service and Volunteering: Making an Impact as a College Student 
+Block 3: So You Want to Play with Swords: Performance Martial Arts and Club Leadership 
+Block 4: The Road Less Traveled: Finding the Right Path for You 
+Block 5: Emergency Medical Technician: Working in the Back of an Ambulance 
+
+Name: Garrett Janning Dickerson
+Seminars:
+Block 1: Thriving in a Highly Competitive College Environment 
+Block 2: Community Service and Volunteering: Making an Impact as a College Student 
+Block 3: The Ins and Outs of Engineering Internships 
+Block 4: On-Campus Recruiting and the Coveted Junior Year Internship in Finance 
+Block 5: Co-Ops and Engineering Internships: Gaining Professional Experience 
+
+Name: Nathaniel Whitney (Nate) Gerson
+Seminars:
+Block 1: Thriving in a Highly Competitive College Environment 
+Block 2: Community Service and Volunteering: Making an Impact as a College Student 
+Block 3: Making an Impact: Being a Leader in Student Government 
+Block 4: The Road Less Traveled: Finding the Right Path for You 
+Block 5: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+
+Name: Aadhyasri Ramineni
+Seminars:
+Block 1: Conquering the Concrete Jungle 
+Block 2: Emergency Medical Technician: Working in the Back of an Ambulance 
+Block 3: Community Organizing and College: Participating in Your College's Democracy 
+Block 4: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 5: Thriving in a Highly Competitive College Environment 
+
+Name: Emily Susan Gonzales
+Seminars:
+Block 1: Conquering the Concrete Jungle 
+Block 2: Community Service and Volunteering: Making an Impact as a College Student 
+Block 3: What Is Research When It's Not a Resume Builder? 
+Block 4: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 5: Thriving in a Highly Competitive College Environment 
+
+Name: Eric Robert Fleischmann
+Seminars:
+Block 1: Conquering the Concrete Jungle 
+Block 2: Emergency Medical Technician: Working in the Back of an Ambulance 
+Block 3: Community Organizing and College: Participating in Your College's Democracy 
+Block 4: To Read or Not To Read? Interning in Publishing 
+Block 5: Co-Ops and Engineering Internships: Gaining Professional Experience 
+
+Name: Grace Virginia Straley
+Seminars:
+Block 1: Conquering the Concrete Jungle 
+Block 2: Community Service and Volunteering: Making an Impact as a College Student 
+Block 3: So You Want to Play with Swords: Performance Martial Arts and Club Leadership 
+Block 4: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 5: Thriving in a Highly Competitive College Environment 
+
+Name: Harrison (Miller) Lyle
+Seminars:
+Block 1: Conquering the Concrete Jungle 
+Block 2: Community Service and Volunteering: Making an Impact as a College Student 
+Block 3: What Is Research When It's Not a Resume Builder? 
+Block 4: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 5: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+
+Name: Maxwell Richard Folan
+Seminars:
+Block 1: Conquering the Concrete Jungle 
+Block 2: The Road Less Traveled: Finding the Right Path for You 
+Block 3: Community Organizing and College: Participating in Your College's Democracy 
+Block 4: On-Campus Recruiting and the Coveted Junior Year Internship in Finance 
+Block 5: Emergency Medical Technician: Working in the Back of an Ambulance 
+
+Name: Moseley Quinn (Mose) Hatcher
+Seminars:
+Block 1: Conquering the Concrete Jungle 
+Block 2: Co-Ops and Engineering Internships: Gaining Professional Experience 
+Block 3: So You Want to Play with Swords: Performance Martial Arts and Club Leadership 
+Block 4: To Read or Not To Read? Interning in Publishing 
+Block 5: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+
+Name: Radha Venkata Mangu
+Seminars:
+Block 1: Conquering the Concrete Jungle 
+Block 2: The Road Less Traveled: Finding the Right Path for You 
+Block 3: What Is Research When It's Not a Resume Builder? 
+Block 4: College Decisions: Choosing a Historically Black College over a Predominately White Institution 
+Block 5: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+
+Name: Bryon Michael Williamson
+Seminars:
+Block 1: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+Block 2: Co-Ops and Engineering Internships: Gaining Professional Experience 
+Block 3: The Ins and Outs of Engineering Internships 
+Block 4: College Decisions: Choosing a Historically Black College over a Predominately White Institution 
+Block 5: Thriving in a Highly Competitive College Environment 
+
+Name: Gavin L. Cercek
+Seminars:
+Block 1: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 2: Co-Ops and Engineering Internships: Gaining Professional Experience 
+Block 3: The Ins and Outs of Engineering Internships 
+Block 4: On-Campus Recruiting and the Coveted Junior Year Internship in Finance 
+Block 5: Emergency Medical Technician: Working in the Back of an Ambulance 
+
+Name: Jeremy Eller
+Seminars:
+Block 1: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+Block 2: Co-Ops and Engineering Internships: Gaining Professional Experience 
+Block 3: Making an Impact: Being a Leader in Student Government 
+Block 4: The Road Less Traveled: Finding the Right Path for You 
+Block 5: Thriving in a Highly Competitive College Environment 
+
+Name: Joshua Jabez (Josh) Payne
+Seminars:
+Block 1: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+Block 2: Co-Ops and Engineering Internships: Gaining Professional Experience 
+Block 3: So You Want to Play with Swords: Performance Martial Arts and Club Leadership 
+Block 4: College Decisions: Choosing a Historically Black College over a Predominately White Institution 
+Block 5: Emergency Medical Technician: Working in the Back of an Ambulance 
+
+Name: Nathaniel Christopher (Nathan) Riemann
+Seminars:
+Block 1: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+Block 2: Co-Ops and Engineering Internships: Gaining Professional Experience 
+Block 3: Making an Impact: Being a Leader in Student Government 
+Block 4: The Road Less Traveled: Finding the Right Path for You 
+Block 5: Thriving in a Highly Competitive College Environment 
+
+Name: Nellie Yushuan Shih
+Seminars:
+Block 1: Conquering the Concrete Jungle 
+Block 2: Co-Ops and Engineering Internships: Gaining Professional Experience 
+Block 3: The Ins and Outs of Engineering Internships 
+Block 4: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 5: Emergency Medical Technician: Working in the Back of an Ambulance 
+
+Name: Samantha Rose Brant
+Seminars:
+Block 1: Greek Life: From Animal House to Developing Tomorrow's Leaders 
+Block 2: Co-Ops and Engineering Internships: Gaining Professional Experience 
+Block 3: Making an Impact: Being a Leader in Student Government 
+Block 4: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 5: Thriving in a Highly Competitive College Environment 
+
+Name: Samuel Taylor
+Seminars:
+Block 1: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+Block 2: Co-Ops and Engineering Internships: Gaining Professional Experience 
+Block 3: The Ins and Outs of Engineering Internships 
+Block 4: To Read or Not To Read? Interning in Publishing 
+Block 5: Conquering the Concrete Jungle 
+
+Name: Emma Rachael McNeil
+Seminars:
+Block 1: Conquering the Concrete Jungle 
+Block 2: Emergency Medical Technician: Working in the Back of an Ambulance 
+Block 3: So You Want to Play with Swords: Performance Martial Arts and Club Leadership 
+Block 4: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 5: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+
+Name: Eric William Kerschner
+Seminars:
+Block 1: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+Block 2: Emergency Medical Technician: Working in the Back of an Ambulance 
+Block 3: What Is Research When It's Not a Resume Builder? 
+Block 4: To Read or Not To Read? Interning in Publishing 
+Block 5: Co-Ops and Engineering Internships: Gaining Professional Experience 
+
+Name: Paige E. Hettinger
+Seminars:
+Block 1: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 2: Emergency Medical Technician: Working in the Back of an Ambulance 
+Block 3: Community Organizing and College: Participating in Your College's Democracy 
+Block 4: College Decisions: Choosing a Historically Black College over a Predominately White Institution 
+Block 5: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+
+Name: Sean Christopher Stewart
+Seminars:
+Block 1: Thriving in a Highly Competitive College Environment 
+Block 2: Emergency Medical Technician: Working in the Back of an Ambulance 
+Block 3: The Ins and Outs of Engineering Internships 
+Block 4: On-Campus Recruiting and the Coveted Junior Year Internship in Finance 
+Block 5: Co-Ops and Engineering Internships: Gaining Professional Experience 
+
+Name: Sterling Elijah Snell
+Seminars:
+Block 1: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 2: Emergency Medical Technician: Working in the Back of an Ambulance 
+Block 3: So You Want to Play with Swords: Performance Martial Arts and Club Leadership 
+Block 4: The Road Less Traveled: Finding the Right Path for You 
+Block 5: Conquering the Concrete Jungle 
+
+Name: Ethan Mikal Jeffries
+Seminars:
+Block 1: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+Block 2: Business Clubs: Campus Involvement and Professional Development 
+Block 3: Making an Impact: Being a Leader in Student Government 
+Block 4: To Read or Not To Read? Interning in Publishing 
+Block 5: Conquering the Concrete Jungle 
+
+Name: Samuel A. (Sam) Jaccaci
+Seminars:
+Block 1: Conquering the Concrete Jungle 
+Block 2: The Road Less Traveled: Finding the Right Path for You 
+Block 3: Making an Impact: Being a Leader in Student Government 
+Block 4: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 5: Co-Ops and Engineering Internships: Gaining Professional Experience 
+
+Name: Catherine M. Phillips
+Seminars:
+Block 1: Thriving in a Highly Competitive College Environment 
+Block 2: Community Service and Volunteering: Making an Impact as a College Student 
+Block 3: So You Want to Play with Swords: Performance Martial Arts and Club Leadership 
+Block 4: College Decisions: Choosing a Historically Black College over a Predominately White Institution 
+Block 5: Emergency Medical Technician: Working in the Back of an Ambulance 
+
+Name: William (Chase) Goings
+Seminars:
+Block 1: Conquering the Concrete Jungle 
+Block 2: Community Service and Volunteering: Making an Impact as a College Student 
+Block 3: So You Want to Play with Swords: Performance Martial Arts and Club Leadership 
+Block 4: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 5: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+
+Name: Abigail Maye (Abby) Maggard
+Seminars:
+Block 1: Conquering the Concrete Jungle 
+Block 2: The Road Less Traveled: Finding the Right Path for You 
+Block 3: Community Organizing and College: Participating in Your College's Democracy 
+Block 4: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 5: Emergency Medical Technician: Working in the Back of an Ambulance 
+
+Name: Chloe Renee Webb
+Seminars:
+Block 1: Greek Life: From Animal House to Developing Tomorrow's Leaders 
+Block 2: The Road Less Traveled: Finding the Right Path for You 
+Block 3: Making an Impact: Being a Leader in Student Government 
+Block 4: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 5: Emergency Medical Technician: Working in the Back of an Ambulance 
+
+Name: Frank Weston
+Seminars:
+Block 1: Thriving in a Highly Competitive College Environment 
+Block 2: The Road Less Traveled: Finding the Right Path for You 
+Block 3: Community Organizing and College: Participating in Your College's Democracy 
+Block 4: On-Campus Recruiting and the Coveted Junior Year Internship in Finance 
+Block 5: Co-Ops and Engineering Internships: Gaining Professional Experience 
+
+Name: Genevieve Claire (Nevie) Smith
+Seminars:
+Block 1: Conquering the Concrete Jungle 
+Block 2: The Road Less Traveled: Finding the Right Path for You 
+Block 3: What Is Research When It's Not a Resume Builder? 
+Block 4: Adventure Calls: The Benefits and Challenges of Study Abroad 
+Block 5: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+
+Name: Grace (Morgan) Pfister
+Seminars:
+Block 1: Thriving in a Highly Competitive College Environment 
+Block 2: The Road Less Traveled: Finding the Right Path for You 
+Block 3: The Ins and Outs of Engineering Internships 
+Block 4: To Read or Not To Read? Interning in Publishing 
+Block 5: Conquering the Concrete Jungle 
+
+Name: Hannah Rose Hess
+Seminars:
+Block 1: Conquering the Concrete Jungle 
+Block 2: The Road Less Traveled: Finding the Right Path for You 
+Block 3: What Is Research When It's Not a Resume Builder? 
+Block 4: College Decisions: Choosing a Historically Black College over a Predominately White Institution 
+Block 5: Emergency Medical Technician: Working in the Back of an Ambulance 
+
+Name: Jane (Janie) Reiring
+Seminars:
+Block 1: Conquering the Concrete Jungle 
+Block 2: Emergency Medical Technician: Working in the Back of an Ambulance 
+Block 3: Community Organizing and College: Participating in Your College's Democracy 
+Block 4: The Road Less Traveled: Finding the Right Path for You 
+Block 5: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+
+Name: Katherine Rhea Valen
+Seminars:
+Block 1: Greek Life: From Animal House to Developing Tomorrow's Leaders 
+Block 2: Emergency Medical Technician: Working in the Back of an Ambulance 
+Block 3: What Is Research When It's Not a Resume Builder? 
+Block 4: The Road Less Traveled: Finding the Right Path for You 
+Block 5: Conquering the Concrete Jungle 
+
+Name: Kayla M. Boaz
+Seminars:
+Block 1: Greek Life: From Animal House to Developing Tomorrow's Leaders 
+Block 2: Community Service and Volunteering: Making an Impact as a College Student 
+Block 3: What Is Research When It's Not a Resume Builder? 
+Block 4: The Road Less Traveled: Finding the Right Path for You 
+Block 5: Be Your Own Boss: Entrepreneurship Opportunities in College and Beyond 
+
+Name: Lindsey Renee Hoffman
+Seminars:
+Block 1: Greek Life: From Animal House to Developing Tomorrow's Leaders 
+Block 2: Emergency Medical Technician: Working in the Back of an Ambulance 
+Block 3: The Ins and Outs of Engineering Internships 
+Block 4: The Road Less Traveled: Finding the Right Path for You 
+Block 5: Conquering the Concrete Jungle 
+
+Name: Margaret Langdon (Maggie) Wright
+Seminars:
+Block 1: Thriving in a Highly Competitive College Environment 
+Block 2: Emergency Medical Technician: Working in the Back of an Ambulance 
+Block 3: Making an Impact: Being a Leader in Student Government 
+Block 4: The Road Less Traveled: Finding the Right Path for You 
+Block 5: Conquering the Concrete Jungle 
+
+Name: Mia E. Lutz
+Seminars:
+Block 1: Thriving in a Highly Competitive College Environment 
+Block 2: Emergency Medical Technician: Working in the Back of an Ambulance 
+Block 3: Community Organizing and College: Participating in Your College's Democracy 
+Block 4: On-Campus Recruiting and the Coveted Junior Year Internship in Finance 
+Block 5: Conquering the Concrete Jungle 
+
+Name: Molly Molloy Briggs
+Seminars:
+Block 1: Greek Life: From Animal House to Developing Tomorrow's Leaders 
+Block 2: Co-Ops and Engineering Internships: Gaining Professional Experience 
+Block 3: What Is Research When It's Not a Resume Builder? 
+Block 4: To Read or Not To Read? Interning in Publishing 
+Block 5: Emergency Medical Technician: Working in the Back of an Ambulance 
+
+Name: Olivia Audrey Yardley
+Seminars:
+Block 1: Greek Life: From Animal House to Developing Tomorrow's Leaders 
+Block 2: Emergency Medical Technician: Working in the Back of an Ambulance 
+Block 3: So You Want to Play with Swords: Performance Martial Arts and Club Leadership 
+Block 4: College Decisions: Choosing a Historically Black College over a Predominately White Institution 
+Block 5: Co-Ops and Engineering Internships: Gaining Professional Experience 
+
+Name: Sydney Renee Baker
+Seminars:
+Block 1: Thriving in a Highly Competitive College Environment 
+Block 2: Co-Ops and Engineering Internships: Gaining Professional Experience 
+Block 3: The Ins and Outs of Engineering Internships 
+Block 4: On-Campus Recruiting and the Coveted Junior Year Internship in Finance 
+Block 5: Emergency Medical Technician: Working in the Back of an Ambulance 
+
+Name: Valen Irene Zalants
+Seminars:
+Block 1: Greek Life: From Animal House to Developing Tomorrow's Leaders 
+Block 2: Emergency Medical Technician: Working in the Back of an Ambulance 
+Block 3: Making an Impact: Being a Leader in Student Government 
+Block 4: To Read or Not To Read? Interning in Publishing 
+Block 5: Conquering the Concrete Jungle 
+
+Name: Victoria Louise (Tori) Keller
+Seminars:
+Block 1: Thriving in a Highly Competitive College Environment 
+Block 2: Community Service and Volunteering: Making an Impact as a College Student 
+Block 3: Community Organizing and College: Participating in Your College's Democracy 
+Block 4: To Read or Not To Read? Interning in Publishing 
+Block 5: Co-Ops and Engineering Internships: Gaining Professional Experience 
+
+Name: Ava Kellar
+Seminars:
+Block 1: Thriving in a Highly Competitive College Environment 
+Block 2: Business Clubs: Campus Involvement and Professional Development 
+Block 3: Making an Impact: Being a Leader in Student Government 
+Block 4: College Decisions: Choosing a Historically Black College over a Predominately White Institution 
+Block 5: Co-Ops and Engineering Internships: Gaining Professional Experience 
+
+Name: Trevor B. Puckett
+Seminars:
+Block 1: Thriving in a Highly Competitive College Environment 
+Block 2: Co-Ops and Engineering Internships: Gaining Professional Experience 
+Block 3: What Is Research When It's Not a Resume Builder? 
+Block 4: On-Campus Recruiting and the Coveted Junior Year Internship in Finance 
+Block 5: Conquering the Concrete Jungle 
+
+Name: Haotong Lu
+Seminars:
+Block 1: Greek Life: From Animal House to Developing Tomorrow's Leaders 
+Block 2: Community Service and Volunteering: Making an Impact as a College Student 
+Block 3: The Ins and Outs of Engineering Internships 
+Block 4: College Decisions: Choosing a Historically Black College over a Predominately White Institution 
+Block 5: Co-Ops and Engineering Internships: Gaining Professional Experience 
+
+Name: Mia Masterson
+Seminars:
+Block 1: Greek Life: From Animal House to Developing Tomorrow's Leaders 
+Block 2: Community Service and Volunteering: Making an Impact as a College Student 
+Block 3: So You Want to Play with Swords: Performance Martial Arts and Club Leadership 
+Block 4: On-Campus Recruiting and the Coveted Junior Year Internship in Finance 
+Block 5: Co-Ops and Engineering Internships: Gaining Professional Experience 
+
+Name: Olivia Scheper
+Seminars:
+Block 1: Greek Life: From Animal House to Developing Tomorrow's Leaders 
+Block 2: Co-Ops and Engineering Internships: Gaining Professional Experience 
+Block 3: Community Organizing and College: Participating in Your College's Democracy 
+Block 4: To Read or Not To Read? Interning in Publishing 
+Block 5: Emergency Medical Technician: Working in the Back of an Ambulance 
+
+Name: Colin Sam
+Seminars:
+Block 1: Thriving in a Highly Competitive College Environment 
+Block 2: Business Clubs: Campus Involvement and Professional Development 
+Block 3: So You Want to Play with Swords: Performance Martial Arts and Club Leadership 
+Block 4: College Decisions: Choosing a Historically Black College over a Predominately White Institution 
+Block 5: Co-Ops and Engineering Internships: Gaining Professional Experience 
+
+Name: Kylan Young
+Seminars:
+Block 1: Greek Life: From Animal House to Developing Tomorrow's Leaders 
+Block 2: Community Service and Volunteering: Making an Impact as a College Student 
+Block 3: The Ins and Outs of Engineering Internships 
+Block 4: On-Campus Recruiting and the Coveted Junior Year Internship in Finance 
+Block 5: Emergency Medical Technician: Working in the Back of an Ambulance 
+
